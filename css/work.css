@@ -1,0 +1,48 @@
+/*html,*/
+/*body { height: 100%; padding: 0; margin: 0; }*/
+/*.outer { height: 100%; padding: 100px 0 0; box-sizing: border-box ; position: relative; }*/
+/*.A { height: 100px; background: #BBE8F2; position: absolute; top: 0 ; left: 0 ; width: 100%; }*/
+/*.B { height: 100%; background: #D9C666; }*/
+/*.test{*/
+/*    margin: 0;*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*    background: url("../imgs/原图.jpg") no-repeat;*/
+/*    background-size: 100%;*/
+/*}*/
+/*.test img{*/
+/*    margin: 0;*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*   */
+/*}*/
+
+body,html{
+
+    background:url(../imgs/蓝.jpg)  no-repeat center center;
+    background-size:cover;
+    background-attachment:fixed;
+    background-color:#CCCCCC;
+   height: 100%;
+}
+
+.BT {
+    text-align: center;
+
+}       /*}     标题格式  */
+
+
+
+p{
+    font-family:宋体;
+    font-size: 25px;
+
+}
+
+.JD{
+    font-style: oblique;
+    color: black;
+    font-family: 微软雅黑;
+    text-align: center;
+    margin: 0 auto;
+}
